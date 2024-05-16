@@ -49,7 +49,7 @@ The project includes the following steps:
 
 The BoW model achieved an accuracy of 98%, with precision, recall, and F1 score all above 94%. The TF-IDF model showed slightly lower performance, particularly in recall. The BoW model was found to be more reliable for spam detection in this dataset.
 
-## Contributing
+## Contributions
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
