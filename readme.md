@@ -1,5 +1,5 @@
 # SMS Spam Detection with Naive Bayes 
-
+ 
 This repository contains the code and documentation for a machine learning project focused on detecting spam messages within SMS text data. The project utilizes the SMS Spam Collection v.1 dataset and implements Naive Bayes classifiers with Bag-of-Words (BoW) and TF-IDF vectorization.
 
 ## Dataset
